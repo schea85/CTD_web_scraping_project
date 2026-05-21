@@ -32,6 +32,8 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
+Note:  Select Python Interpreter
+
 ## Tools Used
 - Python
 - Selenium
