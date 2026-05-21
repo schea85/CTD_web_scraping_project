@@ -40,7 +40,7 @@ Once the virtual environment is activated:
 pip install -r requirements.txt
 ```
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 ### 1.)  Run the web scraper
 ```
 python weather_web_scrape.py
@@ -58,7 +58,7 @@ python weather_data_cleaning.py
 - NumPy
 - ChromeDriver/WebDriver Manager
 
-👤 Author
+## 👤 Author
 Sumna Chea
-GitHub: https://github.com/schea85
-Email: sumnachea85@gmail.com
+- GitHub: https://github.com/schea85
+- Email: sumnachea85@gmail.com
