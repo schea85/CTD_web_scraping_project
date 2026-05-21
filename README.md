@@ -1,7 +1,7 @@
 # CTD_web_scraping_project - Global Weather Dataset
 
 ## Project Overview:
-The project is a complete pipeline that collects weather data from a weather website, using web scraping, cleans and transform the data, and prepares it for storage and visualization.
+This project is a complete data pipeline that collects weather data from a weather website using web scraping, then cleans and transform the data, and prepares it for storage and visualization.
 
 ## Features
 - 🌐 Web scraping using Selenium
@@ -16,7 +16,7 @@ git clone git@github.com:schea85/CTD_web_scraping_project.git
 cd CTD_web_scraping_project
 ```
 
-### 2.) Create a virtual environment
+### 2.) Create and activate a virtual environment
 
 </> mac users:
 ```
@@ -34,9 +34,31 @@ pip install -r requirements.txt
 
 Note:  Select Python Interpreter
 
+### 3.)  Install dependencies
+Once the virtual environment is activated:
+```
+pip install -r requirements.txt
+```
+
+▶️ How to Run the Project
+### 1.)  Run the web scraper
+```
+python weather_web_scrape.py
+```
+
+### 2.). Clean and transform the data
+```
+python weather_data_cleaning.py
+```
+
 ## Tools Used
 - Python
 - Selenium
 - Pandas
 - NumPy
 - ChromeDriver/WebDriver Manager
+
+👤 Author
+Sumna Chea
+GitHub: https://github.com/schea85
+Email: sumnachea85@gmail.com
