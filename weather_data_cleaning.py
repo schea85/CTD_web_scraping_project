@@ -1,7 +1,7 @@
+# Weather Data Cleaning
+
 import pandas as pd
 import numpy as np
-
-# Weather Data Cleaning
 
 # load csv
 weather = pd.read_csv("weather_data_raw.csv")
