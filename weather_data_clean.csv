@@ -1,139 +1,136 @@
 City,Day,Time,Weather Description,Temperature
-Accra,Wed,11:02 pm,Passing clouds. Warm.,84
-Frankfurt,Thu,1:02 am,Passing clouds. Cool.,46
-Nassau,Wed,7:02 pm,Broken clouds. Warm.,88
-Addis Ababa,Thu,2:02 am,Passing clouds. Mild.,63
-Guatemala City,Wed,5:02 pm,Scattered clouds. Warm.,81
-New Delhi,Thu,4:32 am,Clear. Warm.,78
-Adelaide,Thu,8:32 am,Cool.,57
-Halifax,Wed,8:02 pm,Partly sunny. Refreshingly cool.,55
-New Orleans,Wed,6:02 pm,Sunny. Warm.,81
-Algiers,Thu,12:02 am,Passing clouds. Mild.,70
-Hanoi,Thu,6:02 am,Fog. Warm.,81
-New York,Wed,7:02 pm,Sunny. Mild.,66
-Almaty,Thu,4:02 am,Passing clouds. Quite cool.,45
-Harare,Thu,1:02 am,Passing clouds. Mild.,65
-Oslo,Thu,1:02 am,Light rain. Passing clouds. Quite cool.,41
-Amman,Thu,2:02 am,Duststorm. Mild.,66
-Havana,Wed,7:02 pm,Partly sunny. Warm.,86
-Ottawa,Wed,7:02 pm,Low clouds. Cool.,46
-Amsterdam,Thu,1:02 am,Rain showers. Partly cloudy. Quite cool.,45
-Helsinki,Thu,2:02 am,Drizzle. Fog. Cool.,46
-Paris,Thu,1:02 am,Passing clouds. Quite cool.,45
-Anadyr,Thu,11:02 am,Partly sunny. Chilly.,26
-Hong Kong,Thu,7:02 am,Scattered clouds. Warm.,84
-Perth,Thu,7:02 am,Passing clouds. Cool.,54
-Anchorage,Wed,3:02 pm,Overcast. Cool.,54
-Honolulu,Wed,1:02 pm,Passing clouds. Warm.,85
-Philadelphia,Wed,7:02 pm,Partly sunny. Mild.,71
-Ankara,Thu,2:02 am,Passing clouds. Cool.,54
-Houston,Wed,6:02 pm,Passing clouds. Hot.,89
-Phoenix,Wed,4:02 pm,Broken clouds. Extremely hot.,98
-Antananarivo,Thu,2:02 am,Passing clouds. Mild.,63
-Indianapolis,Wed,7:02 pm,Partly sunny. Mild.,64
-Prague,Thu,1:02 am,Clear. Cool.,46
-Asuncion,Wed,8:02 pm,Clear. Cool.,61
-Islamabad,Thu,4:02 am,Passing clouds. Mild.,76
-Reykjavik,Wed,11:02 pm,Partly sunny. Quite cool.,43
-Athens,Thu,2:02 am,Mild.,68
-Istanbul,Thu,2:02 am,Passing clouds. Cool.,59
-Rio de Janeiro,Wed,8:02 pm,Clear. Mild.,73
-Atlanta,Wed,7:02 pm,Sunny. Warm.,79
-Jakarta,Thu,6:02 am,Passing clouds. Warm.,77
-Riyadh,Thu,2:02 am,Clear. Pleasantly warm.,84
-Auckland,Thu,11:02 am,Clear. Cool.,59
-Jerusalem,Thu,2:02 am,Cool.,64
-Rome,Thu,1:02 am,Clear. Cool.,57
-Bangkok,Thu,6:02 am,Passing clouds. Warm.,81
-Johannesburg,Thu,1:02 am,Clear. Cool.,55
-Salt Lake City,Wed,5:02 pm,Partly sunny. Pleasantly warm.,82
-Barcelona,Thu,1:02 am,Passing clouds. Cool.,61
-Karachi,Thu,4:02 am,Haze. Warm.,84
-San Francisco,Wed,4:02 pm,Passing clouds. Mild.,65
-Beijing,Thu,7:02 am,Haze. Mild.,70
-Kathmandu,Thu,4:47 am,Partly cloudy. Mild.,66
-San Juan,Wed,7:02 pm,Scattered clouds. Warm.,84
-Belgrade,Thu,1:02 am,Clear. Cool.,46
-Kingston,Wed,6:02 pm,Warm.,84
-San Salvador,Wed,5:02 pm,Passing clouds. Warm.,86
-Bengaluru,Thu,4:32 am,Passing clouds. Mild.,73
-Kinshasa,Thu,12:02 am,Passing clouds. Warm.,79
-Santiago,Wed,7:02 pm,Partly cloudy. Cool.,59
-Berlin,Thu,1:02 am,Clear. Quite cool.,45
-Kiritimati,Thu,1:02 pm,Scattered clouds. Hot.,91
-Santo Domingo,Wed,7:02 pm,Scattered clouds. Warm.,87
-Bogota,Wed,6:02 pm,Scattered showers. Broken clouds. Cool.,59
-Kolkata,Thu,4:32 am,Thunderstorms. Partly cloudy. Warm.,82
-São Paulo,Wed,8:02 pm,Clear. Mild.,63
-Boston,Wed,7:02 pm,Partly sunny. Refreshingly cool.,61
-Kuala Lumpur,Thu,7:02 am,Passing clouds. Warm.,81
-Seattle,Wed,4:02 pm,Cloudy. Cool.,59
-Brasilia,Wed,8:02 pm,Passing clouds. Mild.,75
-Kuwait City,Thu,2:02 am,Clear. Pleasantly warm.,83
-Seoul,Thu,8:02 am,Sunny. Cool.,61
-Brisbane,Thu,9:02 am,Cool.,61
-Kyiv,Thu,2:02 am,Clear. Cool.,49
-Shanghai,Thu,7:02 am,Partly sunny. Mild.,72
-Brussels,Thu,1:02 am,Passing clouds. Quite cool.,45
-La Paz,Wed,7:02 pm,Scattered clouds. Cool.,53
-Singapore,Thu,7:02 am,Passing clouds. Warm.,81
-Bucharest,Thu,2:02 am,Clear. Cool.,52
-Lagos,Thu,12:02 am,Passing clouds. Warm.,84
-Sofia,Thu,2:02 am,Passing clouds. Cool.,47
-Budapest,Thu,1:02 am,Clear. Quite cool.,41
-Lahore,Thu,4:02 am,Passing clouds. Mild.,73
-St. John's,Wed,8:32 pm,Broken clouds. Quite cool.,41
-Buenos Aires,Wed,8:02 pm,Passing clouds. Refreshingly cool.,57
-Las Vegas,Wed,4:02 pm,Passing clouds. Extremely hot.,94
-Stockholm,Thu,1:02 am,Mostly cloudy. Quite cool.,45
-Cairo,Thu,2:02 am,Clear. Warm.,79
-Lima,Wed,6:02 pm,Sunny. Mild.,75
-Suva,Thu,11:02 am,Partly sunny. Warm.,82
-Calgary,Wed,5:02 pm,Partly sunny. Mild.,72
-Lisbon,Thu,12:02 am,Passing clouds. Cool.,57
-Sydney,Thu,9:02 am,Passing clouds. Mild.,63
-Canberra,Thu,9:02 am,Sunny. Cool.,48
-London,Thu,12:02 am,Passing clouds. Quite cool.,45
-Taipei,Thu,7:02 am,Light rain. Broken clouds. Mild.,72
-Cape Town,Thu,1:02 am,Clear. Cool.,50
-Los Angeles,Wed,4:02 pm,Sunny. Mild.,69
-Tallinn,Thu,2:02 am,Light rain. Low clouds. Quite cool.,45
-Caracas,Wed,7:02 pm,Scattered clouds. Warm.,82
-Madrid,Thu,1:02 am,Clear. Cool.,57
-Tashkent,Thu,4:02 am,Clear. Mild.,66
-Casablanca,Thu,12:02 am,Mild.,64
-Managua,Wed,5:02 pm,Passing clouds. Extremely hot.,95
-Tegucigalpa,Wed,5:02 pm,Passing clouds. Pleasantly warm.,88
-Chicago,Wed,6:02 pm,Scattered clouds. Cool.,54
-Manila,Thu,7:02 am,Overcast. Warm.,84
-Tehran,Thu,2:32 am,Clear. Mild.,73
-Copenhagen,Thu,1:02 am,Passing clouds. Quite cool.,43
-Melbourne,Thu,9:02 am,Scattered clouds. Cool.,54
-Tokyo,Thu,8:02 am,Overcast. Cool.,62
-Dallas,Wed,6:02 pm,Sunny. Hot.,90
-Mexico City,Wed,5:02 pm,Partly sunny. Pleasantly warm.,77
-Toronto,Wed,7:02 pm,Broken clouds. Cool.,48
-Darwin,Thu,8:32 am,Overcast. Warm.,81
-Miami,Wed,7:02 pm,Broken clouds. Hot.,88
-Vancouver,Wed,4:02 pm,Cloudy. Cool.,61
-Denver,Wed,5:02 pm,Broken clouds. Hot.,88
-Minneapolis,Wed,6:02 pm,Passing clouds. Mild.,72
-Vienna,Thu,1:02 am,Clear. Cool.,48
-Detroit,Wed,7:02 pm,Overcast. Cool.,47
-Minsk,Thu,2:02 am,Clear. Quite cool.,43
-Warsaw,Thu,1:02 am,Clear. Cool.,48
-Dhaka,Thu,5:02 am,Passing clouds. Mild.,74
-Montevideo,Wed,8:02 pm,Clear. Cool.,48
-Washington DC,Wed,7:02 pm,Light rain. Broken clouds. Mild.,64
-Doha,Thu,2:02 am,Passing clouds. Extremely hot.,93
-Montréal,Wed,7:02 pm,Light rain. More clouds than sun. Cool.,46
-Winnipeg,Wed,6:02 pm,Mild.,76
-Dubai,Thu,3:02 am,Passing clouds. Warm.,84
-Moscow,Thu,2:02 am,Passing clouds. Cool.,55
-Yangon,Thu,5:32 am,Passing clouds. Warm.,79
-Dublin,Thu,12:02 am,Sprinkles. Partly cloudy. Quite cool.,45
-Mumbai,Thu,4:32 am,Passing clouds. Warm.,87
-Zagreb,Thu,1:02 am,Clear. Quite cool.,43
-Edmonton,Wed,5:02 pm,Sprinkles. Mostly cloudy. Mild.,66
-Nairobi,Thu,2:02 am,Partly cloudy. Mild.,64
-Zürich,Thu,1:02 am,Scattered showers. Passing clouds. Cool.,46
+Accra,Sat,11:01 pm,Clear. Warm.,79
+Edmonton,Sat,5:01 pm,Partly sunny. Mild.,68
+New Delhi,Sun,4:31 am,Clear. Mild.,76
+Addis Ababa,Sun,2:01 am,Rain. Passing clouds. Cool.,59
+Frankfurt,Sun,1:01 am,Sprinkles. Passing clouds. Mild.,66
+New Orleans,Sat,6:01 pm,Sunny. Hot.,89
+Adelaide,Sun,8:31 am,Cool.,57
+Guatemala City,Sat,5:01 pm,Partly sunny. Mild.,75
+New York,Sat,7:01 pm,Passing clouds. Refreshingly cool.,60
+Algiers,Sun,12:01 am,Clear. Mild.,76
+Halifax,Sat,8:01 pm,Overcast. Cool.,46
+Oslo,Sun,1:01 am,Passing clouds. Refreshingly cool.,59
+Almaty,Sun,4:01 am,Partly cloudy. Mild.,66
+Hanoi,Sun,6:01 am,Light rain. Partly sunny. Warm.,77
+Ottawa,Sat,7:01 pm,Partly sunny. Mild.,68
+Amman,Sun,2:01 am,Clear. Mild.,64
+Harare,Sun,1:01 am,Haze. Cool.,57
+Paris,Sun,1:01 am,Clear. Mild.,72
+Amsterdam,Sun,1:01 am,Clear. Mild.,64
+Havana,Sat,7:01 pm,Scattered clouds. Warm.,86
+Perth,Sun,7:01 am,Passing clouds. Mild.,64
+Anadyr,Sun,11:01 am,Sunny. Chilly.,39
+Helsinki,Sun,2:01 am,Clear. Cool.,48
+Philadelphia,Sat,7:01 pm,Partly sunny. Mild.,70
+Anchorage,Sat,3:01 pm,Mostly cloudy. Cool.,50
+Hong Kong,Sun,7:01 am,Warm.,79
+Phoenix,Sat,4:01 pm,Sunny. Hot.,89
+Ankara,Sun,2:01 am,Passing clouds. Cool.,50
+Honolulu,Sat,1:01 pm,Light rain. Broken clouds. Mild.,76
+Prague,Sun,1:01 am,Passing clouds. Cool.,55
+Antananarivo,Sun,2:01 am,Passing clouds. Cool.,59
+Houston,Sat,6:01 pm,Scattered clouds. Hot.,90
+Reykjavik,Sat,11:01 pm,Scattered showers. Overcast. Cool.,50
+Asuncion,Sat,8:01 pm,Mostly cloudy. Mild.,64
+Indianapolis,Sat,7:01 pm,Partly sunny. Warm.,78
+Rio de Janeiro,Sat,8:01 pm,Clear. Mild.,75
+Athens,Sun,2:01 am,Mild.,72
+Islamabad,Sun,4:01 am,Overcast. Warm.,77
+Riyadh,Sun,2:01 am,Clear. Pleasantly warm.,84
+Atlanta,Sat,7:01 pm,Passing clouds. Warm.,83
+Istanbul,Sun,2:01 am,Clear. Mild.,66
+Rome,Sun,1:01 am,Clear. Mild.,70
+Auckland,Sun,11:01 am,Mostly cloudy. Mild.,64
+Jakarta,Sun,6:01 am,Fog. Mild.,77
+Salt Lake City,Sat,5:01 pm,Broken clouds. Mild.,67
+Baghdad,Sun,2:01 am,Clear. Mild.,74
+Jerusalem,Sun,2:01 am,Cool.,64
+San Francisco,Sat,4:01 pm,Passing clouds. Mild.,64
+Bangkok,Sun,6:01 am,Passing clouds. Warm.,82
+Johannesburg,Sun,1:01 am,Cool.,52
+San Juan,Sat,7:01 pm,Scattered clouds. Warm.,84
+Barcelona,Sun,1:01 am,Passing clouds. Mild.,72
+Karachi,Sun,4:01 am,Passing clouds. Warm.,86
+San Salvador,Sat,5:01 pm,Passing clouds. Warm.,84
+Beijing,Sun,7:01 am,Mild.,76
+Kathmandu,Sun,4:46 am,Partly cloudy. Mild.,64
+Santiago,Sat,7:01 pm,Clear. Mild.,68
+Belgrade,Sun,1:01 am,Clear. Mild.,66
+Kingston,Sat,6:01 pm,Warm.,85
+Santo Domingo,Sat,7:01 pm,Scattered clouds. Warm.,86
+Bengaluru,Sun,4:31 am,Partly cloudy. Mild.,72
+Kinshasa,Sun,12:01 am,Clear. Warm.,79
+São Paulo,Sat,8:01 pm,Passing clouds. Mild.,63
+Berlin,Sun,1:01 am,Passing clouds. Cool.,61
+Kiritimati,Sun,1:01 pm,Broken clouds. Warm.,86
+Seattle,Sat,4:01 pm,Sunny. Refreshingly cool.,62
+Bogota,Sat,6:01 pm,Scattered clouds. Mild.,66
+Kolkata,Sun,4:31 am,Passing clouds. Warm.,79
+Seoul,Sun,8:01 am,Sunny. Mild.,70
+Boston,Sat,7:01 pm,More clouds than sun. Cool.,50
+Kuala Lumpur,Sun,7:01 am,Passing clouds. Warm.,82
+Shanghai,Sun,7:01 am,Sunny. Mild.,73
+Brasilia,Sat,8:01 pm,Clear. Mild.,68
+Kuwait City,Sun,2:01 am,Clear. Hot.,91
+Singapore,Sun,7:01 am,Passing clouds. Warm.,81
+Brisbane,Sun,9:01 am,Cool.,59
+Kyiv,Sun,2:01 am,Overcast. Cool.,49
+Sofia,Sun,2:01 am,Passing clouds. Refreshingly cool.,60
+Brussels,Sun,1:01 am,Clear. Mild.,64
+La Paz,Sat,7:01 pm,Scattered clouds. Refreshingly cool.,56
+St. John's,Sat,8:31 pm,Light rain. Fog. Chilly.,37
+Bucharest,Sun,2:01 am,Clear. Cool.,55
+Lagos,Sun,12:01 am,Passing clouds. Mild.,75
+Stockholm,Sun,1:01 am,Passing clouds. Cool.,54
+Budapest,Sun,1:01 am,Clear. Mild.,66
+Lahore,Sun,4:01 am,Passing clouds. Mild.,73
+Suva,Sun,11:01 am,Scattered clouds. Warm.,81
+Buenos Aires,Sat,8:01 pm,Clear. Cool.,55
+Las Vegas,Sat,4:01 pm,Passing clouds. Pleasantly warm.,86
+Sydney,Sun,9:01 am,Sunny. Cool.,55
+Cairo,Sun,2:01 am,Clear. Mild.,75
+Lima,Sat,6:01 pm,Sunny. Warm.,78
+Taipei,Sun,7:01 am,Scattered clouds. Warm.,77
+Calgary,Sat,5:01 pm,Partly sunny. Cool.,54
+Lisbon,Sun,12:01 am,Passing clouds. Cool.,61
+Tallinn,Sun,2:01 am,Clear. Cool.,52
+Canberra,Sun,9:01 am,Passing clouds. Cool.,50
+London,Sun,12:01 am,Clear. Mild.,66
+Tashkent,Sun,4:01 am,Passing clouds. Warm.,78
+Cape Town,Sun,1:01 am,Clear. Cool.,59
+Los Angeles,Sat,4:01 pm,Sunny. Mild.,70
+Tegucigalpa,Sat,5:01 pm,Thunderstorms. Broken clouds. Mild.,73
+Caracas,Sat,7:01 pm,Scattered clouds. Warm.,84
+Madrid,Sun,1:01 am,Clear. Mild.,75
+Tehran,Sun,2:31 am,Clear. Pleasantly warm.,77
+Casablanca,Sun,12:01 am,Mild.,68
+Managua,Sat,5:01 pm,Scattered clouds. Extremely hot.,93
+Tokyo,Sun,8:01 am,Overcast. Mild.,72
+Chicago,Sat,6:01 pm,Broken clouds. Mild.,72
+Manila,Sun,7:01 am,Overcast. Warm.,79
+Toronto,Sat,7:01 pm,Passing clouds. Mild.,64
+Copenhagen,Sun,1:01 am,Passing clouds. Cool.,57
+Melbourne,Sun,9:01 am,Passing clouds. Cool.,50
+Vancouver,Sat,4:01 pm,Passing clouds. Refreshingly cool.,59
+Dallas,Sat,6:01 pm,Broken clouds. Hot.,91
+Mexico City,Sat,5:01 pm,Passing clouds. Pleasantly warm.,82
+Vienna,Sun,1:01 am,Clear. Mild.,68
+Dar es Salaam,Sun,2:01 am,Passing clouds. Mild.,73
+Miami,Sat,7:01 pm,Mostly cloudy. Warm.,85
+Warsaw,Sun,1:01 am,Passing clouds. Mild.,63
+Darwin,Sun,8:31 am,Sunny. Mild.,68
+Minneapolis,Sat,6:01 pm,Partly sunny. Pleasantly warm.,83
+Washington DC,Sat,7:01 pm,Passing clouds. Mild.,72
+Denver,Sat,5:01 pm,Thundershowers. Broken clouds. Mild.,73
+Minsk,Sun,2:01 am,Sprinkles. Overcast. Cool.,48
+Winnipeg,Sat,6:01 pm,Pleasantly warm.,85
+Detroit,Sat,7:01 pm,Sunny. Mild.,69
+Montevideo,Sat,8:01 pm,Drizzle. Fog. Cool.,54
+Yangon,Sun,5:31 am,Passing clouds. Warm.,79
+Dhaka,Sun,5:01 am,Passing clouds. Warm.,82
+Montréal,Sat,7:01 pm,Passing clouds. Mild.,63
+Zagreb,Sun,1:01 am,Light rain. Passing clouds. Mild.,64
+Doha,Sun,2:01 am,Clear. Warm.,88
+Moscow,Sun,2:01 am,Overcast. Cool.,49
+Zürich,Sun,1:01 am,Clear. Mild.,63
